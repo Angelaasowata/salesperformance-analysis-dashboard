@@ -1,0 +1,32 @@
+# Sales Performance Analysis Dashboard
+
+## Project Overview
+This Power BI project analyzes sales performance, customer insights, and product profitability using transactional sales data.
+
+## Tools Used
+- Power BI
+- Excel
+- DAX
+- Data Modeling
+
+## Dashboard Pages
+### Executive Overview
+Provides insights into revenue, profit, profit margin, customer count, and sales trends.
+
+### Customer Insights
+Analyzes customer demographics, retention, customer segments, and revenue distribution.
+
+### Product Profitability
+Evaluates product performance, category profitability, and top-performing products.
+
+## Key Findings
+- Total Revenue: 40.62M
+- Total Profit: 13.09M
+- Profit Margin: 32.2%
+- West region generated the highest revenue.
+- Office Supplies was the best-performing category.
+- Consumer customers generated the highest revenue.
+
+ Author
+Angela Asowata
+Aspiring Data Analyst
