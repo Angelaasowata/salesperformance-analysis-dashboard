@@ -1,0 +1,201 @@
+ProductID,ProductName,Category,SubCategory,UnitCost
+P0001,Laptop Model 16,Electronics,Laptop,372.07
+P0002,Chair Model 44,Furniture,Chair,369.55
+P0003,Fan Model 3,Appliances,Fan,297.29
+P0004,Laptop Model 33,Electronics,Laptop,113.23
+P0005,Fan Model 46,Appliances,Fan,282.82
+P0006,Blender Model 38,Appliances,Blender,114.12
+P0007,Paper Model 11,Office Supplies,Paper,380.61
+P0008,Mouse Model 14,Accessories,Mouse,142.55
+P0009,Paper Model 7,Office Supplies,Paper,50.91
+P0010,Pen Model 3,Office Supplies,Pen,303.84
+P0011,Keyboard Model 25,Accessories,Keyboard,66.79
+P0012,Tablet Model 40,Electronics,Tablet,415.56
+P0013,Notebook Model 5,Office Supplies,Notebook,100.18
+P0014,Phone Model 6,Electronics,Phone,387.67
+P0015,Chair Model 30,Furniture,Chair,193.16
+P0016,Paper Model 14,Office Supplies,Paper,188.24
+P0017,Notebook Model 42,Office Supplies,Notebook,468.64
+P0018,Phone Model 16,Electronics,Phone,269.4
+P0019,Desk Model 41,Furniture,Desk,192.83
+P0020,Fan Model 50,Appliances,Fan,343.88
+P0021,Phone Model 21,Electronics,Phone,411.79
+P0022,Mouse Model 37,Accessories,Mouse,37.76
+P0023,Paper Model 26,Office Supplies,Paper,329.44
+P0024,Headset Model 16,Accessories,Headset,136.12
+P0025,Microwave Model 38,Appliances,Microwave,135.06
+P0026,Keyboard Model 15,Accessories,Keyboard,202.7
+P0027,Cabinet Model 49,Furniture,Cabinet,249.29
+P0028,Laptop Model 11,Electronics,Laptop,80.66
+P0029,Keyboard Model 25,Accessories,Keyboard,36.45
+P0030,Blender Model 36,Appliances,Blender,266.91
+P0031,Laptop Model 35,Electronics,Laptop,342.45
+P0032,Notebook Model 19,Office Supplies,Notebook,173.39
+P0033,Headset Model 47,Accessories,Headset,229.59
+P0034,Notebook Model 33,Office Supplies,Notebook,382.17
+P0035,Tablet Model 33,Electronics,Tablet,421.63
+P0036,Fan Model 49,Appliances,Fan,80.66
+P0037,Cabinet Model 34,Furniture,Cabinet,476.98
+P0038,Tablet Model 8,Electronics,Tablet,246.86
+P0039,Pen Model 16,Office Supplies,Pen,123.53
+P0040,Fan Model 32,Appliances,Fan,47.4
+P0041,Phone Model 31,Electronics,Phone,68.55
+P0042,Fan Model 39,Appliances,Fan,136.2
+P0043,Headset Model 49,Accessories,Headset,464.81
+P0044,Cabinet Model 43,Furniture,Cabinet,159.3
+P0045,Pen Model 29,Office Supplies,Pen,450.31
+P0046,Phone Model 22,Electronics,Phone,116.23
+P0047,Phone Model 1,Electronics,Phone,296.28
+P0048,Laptop Model 3,Electronics,Laptop,118.33
+P0049,Paper Model 18,Office Supplies,Paper,259.51
+P0050,Headset Model 47,Accessories,Headset,271.92
+P0051,Microwave Model 31,Appliances,Microwave,238.97
+P0052,Headset Model 43,Accessories,Headset,51.69
+P0053,Mouse Model 30,Accessories,Mouse,214.67
+P0054,Laptop Model 47,Electronics,Laptop,35.0
+P0055,Paper Model 13,Office Supplies,Paper,128.08
+P0056,Blender Model 12,Appliances,Blender,74.39
+P0057,Pen Model 5,Office Supplies,Pen,128.65
+P0058,Keyboard Model 42,Accessories,Keyboard,53.46
+P0059,Fan Model 49,Appliances,Fan,484.65
+P0060,Chair Model 31,Furniture,Chair,206.17
+P0061,Desk Model 11,Furniture,Desk,451.71
+P0062,Headset Model 17,Accessories,Headset,492.73
+P0063,Mouse Model 47,Accessories,Mouse,214.39
+P0064,Microwave Model 10,Appliances,Microwave,360.61
+P0065,Desk Model 4,Furniture,Desk,112.76
+P0066,Microwave Model 48,Appliances,Microwave,273.39
+P0067,Paper Model 31,Office Supplies,Paper,29.82
+P0068,Microwave Model 33,Appliances,Microwave,82.93
+P0069,Phone Model 5,Electronics,Phone,38.92
+P0070,Desk Model 37,Furniture,Desk,64.34
+P0071,Cabinet Model 40,Furniture,Cabinet,299.29
+P0072,Printer Model 37,Electronics,Printer,330.4
+P0073,Blender Model 14,Appliances,Blender,467.68
+P0074,Paper Model 9,Office Supplies,Paper,136.48
+P0075,Pen Model 49,Office Supplies,Pen,161.51
+P0076,Laptop Model 37,Electronics,Laptop,231.85
+P0077,Laptop Model 33,Electronics,Laptop,271.13
+P0078,Paper Model 5,Office Supplies,Paper,466.96
+P0079,Desk Model 29,Furniture,Desk,146.07
+P0080,Microwave Model 42,Appliances,Microwave,154.75
+P0081,Fan Model 36,Appliances,Fan,335.59
+P0082,Notebook Model 9,Office Supplies,Notebook,56.28
+P0083,Paper Model 48,Office Supplies,Paper,445.41
+P0084,Fan Model 39,Appliances,Fan,139.81
+P0085,Cabinet Model 44,Furniture,Cabinet,174.73
+P0086,Notebook Model 4,Office Supplies,Notebook,246.82
+P0087,Printer Model 3,Electronics,Printer,415.53
+P0088,Tablet Model 41,Electronics,Tablet,386.7
+P0089,Paper Model 36,Office Supplies,Paper,371.91
+P0090,Keyboard Model 5,Accessories,Keyboard,9.79
+P0091,Cabinet Model 24,Furniture,Cabinet,22.83
+P0092,Microwave Model 9,Appliances,Microwave,78.31
+P0093,Tablet Model 3,Electronics,Tablet,185.5
+P0094,Paper Model 43,Office Supplies,Paper,342.62
+P0095,Tablet Model 27,Electronics,Tablet,391.16
+P0096,Microwave Model 16,Appliances,Microwave,81.5
+P0097,Chair Model 2,Furniture,Chair,441.3
+P0098,Cabinet Model 27,Furniture,Cabinet,462.62
+P0099,Desk Model 45,Furniture,Desk,83.8
+P0100,Printer Model 31,Electronics,Printer,436.72
+P0101,Chair Model 30,Furniture,Chair,409.21
+P0102,Pen Model 15,Office Supplies,Pen,411.17
+P0103,Chair Model 26,Furniture,Chair,331.72
+P0104,Pen Model 50,Office Supplies,Pen,432.85
+P0105,Pen Model 26,Office Supplies,Pen,322.53
+P0106,Blender Model 8,Appliances,Blender,469.92
+P0107,Paper Model 17,Office Supplies,Paper,292.39
+P0108,Laptop Model 23,Electronics,Laptop,300.3
+P0109,Pen Model 33,Office Supplies,Pen,305.07
+P0110,Printer Model 13,Electronics,Printer,450.25
+P0111,Paper Model 1,Office Supplies,Paper,355.85
+P0112,Microwave Model 48,Appliances,Microwave,344.99
+P0113,Desk Model 43,Furniture,Desk,218.49
+P0114,Notebook Model 8,Office Supplies,Notebook,160.39
+P0115,Notebook Model 27,Office Supplies,Notebook,158.1
+P0116,Pen Model 36,Office Supplies,Pen,350.12
+P0117,Chair Model 25,Furniture,Chair,213.12
+P0118,Cabinet Model 26,Furniture,Cabinet,286.71
+P0119,Fan Model 14,Appliances,Fan,155.42
+P0120,Keyboard Model 21,Accessories,Keyboard,305.3
+P0121,Mouse Model 14,Accessories,Mouse,223.87
+P0122,Blender Model 48,Appliances,Blender,397.9
+P0123,Cabinet Model 33,Furniture,Cabinet,46.97
+P0124,Blender Model 49,Appliances,Blender,51.23
+P0125,Cabinet Model 13,Furniture,Cabinet,158.66
+P0126,Chair Model 31,Furniture,Chair,27.88
+P0127,Fan Model 41,Appliances,Fan,230.43
+P0128,Fan Model 25,Appliances,Fan,360.58
+P0129,Mouse Model 42,Accessories,Mouse,125.77
+P0130,Laptop Model 15,Electronics,Laptop,390.32
+P0131,Cabinet Model 4,Furniture,Cabinet,261.39
+P0132,Fan Model 8,Appliances,Fan,459.15
+P0133,Headset Model 43,Accessories,Headset,401.7
+P0134,Microwave Model 49,Appliances,Microwave,299.75
+P0135,Keyboard Model 33,Accessories,Keyboard,408.43
+P0136,Keyboard Model 11,Accessories,Keyboard,225.73
+P0137,Mouse Model 16,Accessories,Mouse,133.3
+P0138,Notebook Model 16,Office Supplies,Notebook,244.88
+P0139,Pen Model 19,Office Supplies,Pen,43.35
+P0140,Desk Model 35,Furniture,Desk,171.24
+P0141,Phone Model 25,Electronics,Phone,79.66
+P0142,Cabinet Model 27,Furniture,Cabinet,110.91
+P0143,Mouse Model 27,Accessories,Mouse,273.59
+P0144,Phone Model 25,Electronics,Phone,417.28
+P0145,Microwave Model 49,Appliances,Microwave,14.67
+P0146,Blender Model 23,Appliances,Blender,241.1
+P0147,Pen Model 27,Office Supplies,Pen,427.46
+P0148,Microwave Model 39,Appliances,Microwave,368.64
+P0149,Desk Model 28,Furniture,Desk,113.61
+P0150,Headset Model 43,Accessories,Headset,197.48
+P0151,Keyboard Model 30,Accessories,Keyboard,86.7
+P0152,Cabinet Model 26,Furniture,Cabinet,269.39
+P0153,Microwave Model 6,Appliances,Microwave,333.18
+P0154,Headset Model 12,Accessories,Headset,434.09
+P0155,Tablet Model 14,Electronics,Tablet,192.66
+P0156,Mouse Model 25,Accessories,Mouse,172.06
+P0157,Pen Model 6,Office Supplies,Pen,129.87
+P0158,Headset Model 4,Accessories,Headset,375.77
+P0159,Paper Model 50,Office Supplies,Paper,326.82
+P0160,Laptop Model 13,Electronics,Laptop,475.06
+P0161,Phone Model 31,Electronics,Phone,123.08
+P0162,Phone Model 17,Electronics,Phone,235.19
+P0163,Paper Model 48,Office Supplies,Paper,304.92
+P0164,Phone Model 7,Electronics,Phone,482.54
+P0165,Fan Model 37,Appliances,Fan,464.8
+P0166,Mouse Model 13,Accessories,Mouse,471.03
+P0167,Phone Model 50,Electronics,Phone,55.44
+P0168,Notebook Model 8,Office Supplies,Notebook,302.2
+P0169,Fan Model 28,Appliances,Fan,176.87
+P0170,Paper Model 22,Office Supplies,Paper,255.45
+P0171,Printer Model 7,Electronics,Printer,412.05
+P0172,Mouse Model 30,Accessories,Mouse,319.61
+P0173,Desk Model 34,Furniture,Desk,92.19
+P0174,Notebook Model 35,Office Supplies,Notebook,405.06
+P0175,Mouse Model 47,Accessories,Mouse,220.61
+P0176,Blender Model 16,Appliances,Blender,164.54
+P0177,Tablet Model 16,Electronics,Tablet,441.41
+P0178,Keyboard Model 25,Accessories,Keyboard,307.11
+P0179,Paper Model 21,Office Supplies,Paper,249.68
+P0180,Desk Model 17,Furniture,Desk,110.0
+P0181,Pen Model 45,Office Supplies,Pen,440.76
+P0182,Notebook Model 13,Office Supplies,Notebook,10.02
+P0183,Phone Model 32,Electronics,Phone,361.44
+P0184,Fan Model 42,Appliances,Fan,346.85
+P0185,Mouse Model 6,Accessories,Mouse,397.5
+P0186,Paper Model 16,Office Supplies,Paper,205.18
+P0187,Notebook Model 31,Office Supplies,Notebook,292.87
+P0188,Microwave Model 48,Appliances,Microwave,175.16
+P0189,Blender Model 30,Appliances,Blender,179.15
+P0190,Pen Model 8,Office Supplies,Pen,129.44
+P0191,Desk Model 35,Furniture,Desk,64.18
+P0192,Chair Model 31,Furniture,Chair,112.11
+P0193,Notebook Model 49,Office Supplies,Notebook,296.85
+P0194,Microwave Model 7,Appliances,Microwave,145.08
+P0195,Desk Model 12,Furniture,Desk,117.6
+P0196,Paper Model 9,Office Supplies,Paper,355.47
+P0197,Paper Model 36,Office Supplies,Paper,487.28
+P0198,Notebook Model 41,Office Supplies,Notebook,472.32
+P0199,Headset Model 37,Accessories,Headset,437.0
+P0200,Pen Model 22,Office Supplies,Pen,241.96
